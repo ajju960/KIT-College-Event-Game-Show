@@ -1,0 +1,6 @@
+{
+  "name": "KIT College Event Game Show",
+  "description": "Interactive live game show platform for Kalaignar Karunanidhi Institute of Technology, featuring CTRL+GUESS, GUESS PANNU BRO?, and PICK & SPEAK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
